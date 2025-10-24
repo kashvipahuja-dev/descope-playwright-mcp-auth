@@ -12,7 +12,7 @@
   "dependencies": {
     "@descope/mcp-express": "^1.4.1",
     "@playwright/mcp": "^0.0.43",
-    "cores": "^0.8.5",
+    "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "http-proxy": "^1.18.1"
